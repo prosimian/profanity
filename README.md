@@ -5,11 +5,10 @@ Get started:
 ```sh
 npx degit prosimian/profanity my-new-sanity-project
 
-# customize README.md
-# customize package.json
-# then
+cd my-new-sanity-project
+
 sanity init
-# Say “Yes” to reconfigure the studio and follow the instructions
+# Follow the instructions
 ```
 
 Edit the schema and structure per your project needs.
